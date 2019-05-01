@@ -1,0 +1,7 @@
+Divide and Conquer Algorithm: 
+4 6 12.369317 
+Execution time: 0.000042 seconds
+############################################# 
+Brute Force Algorithm: 
+4 6 12.369317 
+Execution time: 0.000011 seconds
